@@ -8,12 +8,14 @@ Update Inteligente: Atualiza apenas os campos enviados, sem perder os dados anti
 
 Banco H2: Configurado para rodar em memória, ideal para testar rápido sem precisar instalar um Postgres ou MySQL agora.
 
+
 ### 🛠 Tecnologias:
 Java 21 e Spring Boot 3.
 
 Lombok.
 
 Spring Data JPA: Para lidar com o banco de dados.
+
 
 ### 📂 Organização (Arquitetura):
 Diferente do básico service/controller, usei uma estrutura mais organizada:
