@@ -38,7 +38,7 @@ Para facilitar o teste dos endpoints, o projeto conta com o **Swagger UI**, que 
 
 ### Pré-requisitos
 * Java 21 ou superior
-* Maven (opcional, se usar o wrapper `./mvnw`)
+* Maven 
 
 ### Passo a passo
 1. Clone o repositório:
