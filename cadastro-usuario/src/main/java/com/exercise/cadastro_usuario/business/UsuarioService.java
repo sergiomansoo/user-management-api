@@ -20,6 +20,7 @@ public class UsuarioService {
                 ()-> new RuntimeException("Email não encontrado")
         );//
     }
+
     public void deletarPorEmail(String email){
         repository.deleteByEmail(email);
     }
